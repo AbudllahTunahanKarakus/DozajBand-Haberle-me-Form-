@@ -1,0 +1,11 @@
+C:\Users\tunah\source\repos\ModbusLibrary\obj\Debug\ModbusLibrary.csproj.AssemblyReference.cache
+C:\Users\tunah\source\repos\ModbusLibrary\obj\Debug\ModbusLibrary.Deneme1.resources
+C:\Users\tunah\source\repos\ModbusLibrary\obj\Debug\ModbusLibrary.Properties.Resources.resources
+C:\Users\tunah\source\repos\ModbusLibrary\obj\Debug\ModbusLibrary.csproj.GenerateResource.cache
+C:\Users\tunah\source\repos\ModbusLibrary\obj\Debug\ModbusLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tunah\source\repos\ModbusLibrary\bin\Debug\ModbusLibrary.exe.config
+C:\Users\tunah\source\repos\ModbusLibrary\bin\Debug\ModbusLibrary.exe
+C:\Users\tunah\source\repos\ModbusLibrary\bin\Debug\ModbusLibrary.pdb
+C:\Users\tunah\source\repos\ModbusLibrary\obj\Debug\ModbusLibrary.exe
+C:\Users\tunah\source\repos\ModbusLibrary\obj\Debug\ModbusLibrary.pdb
+C:\Users\tunah\source\repos\ModbusLibrary\obj\Debug\ModbusLibrary.DozajDashboard.resources
